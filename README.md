@@ -1,5 +1,5 @@
 # empty-checker 
-Npm package to check the value is worth.
+Npm package to check the value is worth
 
 if the value is: 
 ```
