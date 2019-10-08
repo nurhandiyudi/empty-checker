@@ -9,6 +9,8 @@ then the return is ```true``` and vice versa
 
 ## How To Use
 
+``` npm i empty-checker --save ```
+
 ```
 const isEmpty = require('isEmpty');
 
