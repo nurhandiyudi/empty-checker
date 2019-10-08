@@ -1,6 +1,6 @@
 {
   "name": "empty-checker",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Npm package to check the value is worth. if the value is:  null, undefined, 0, ''. then the return is true and vice versa",
   "main": "index.js",
   "scripts": {
